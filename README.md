@@ -4,7 +4,7 @@ This is a simple missile Command game developed using WebGL and three.js. There 
 
 [Link for demo](https://suniltheta.github.io)
 <br><br>
-[Screencast link](https://www.youtube.com)
+[Screencast link](https://youtu.be/4io5-bKs0ps)
 
 ### Credits
 
